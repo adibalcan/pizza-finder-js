@@ -10,3 +10,6 @@ This method selects for you only pizzas that contains a specific list of ingredi
 3. Select console tab
 4. Paste js code (after you edit the lists of ingredients) and press enter
 5. Scroll on the page and you will see pizzas marked with green
+
+# Google Chrome extension
+Here ( https://chrome.google.com/webstore/detail/pizzafinder/cplmmhjnpgajpohbjenpjgakhikembnp ) you can find a Google Chrome extension
